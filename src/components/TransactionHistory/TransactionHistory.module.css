@@ -1,0 +1,25 @@
+.transactionHistory {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: aquamarine;
+}
+
+.columns {
+  display: flex;
+  text-align: center;
+}
+
+.column {
+  margin-right: 10px;
+  margin-left: 10px;
+}
+
+th,
+td {
+  border-right: 1px solid #ddd;
+  border-left: 1px solid #ddd;
+  border-bottom: 1px solid #ddd;
+  padding: 15px;
+  text-align: center;
+}
