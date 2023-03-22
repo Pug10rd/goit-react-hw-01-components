@@ -10,6 +10,7 @@ export const Description = styledComponents.div`
 export const Name = styledComponents.p`
     font-weight: bold;
     font-size: 25;
+    
 `;
 
 export const Tag = styledComponents.p`
